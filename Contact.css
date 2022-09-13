@@ -1,0 +1,94 @@
+.blocki1 i{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 800px;
+    }
+    *{
+        margin: 0;
+    }
+    .yuio{
+        margin-top: 10px;
+        font-size: 40px;
+        text-decoration: none;
+        margin-left: 100px;
+    }
+    .blocki1{
+        z-index: 1;
+        background-color: aliceblue;
+        position: sticky;
+        top: 0%;
+        padding-top: 20px;
+        padding-bottom: 10px;
+    display: flex;
+    height: 10vh;
+    }
+    .blocki1 img{
+        margin-left: 50px;
+    }
+    .containeri1{
+
+        display: flex;
+        height: 500px;
+        background-image: url(./Imagas/MANICHI1.jpg);
+    }
+    .blo1{
+        width: 50%;
+
+    }
+    .blo2{
+    height: 1080px;
+        background-color: blue;
+        width: 45%;
+        margin-left: 100px;
+       
+    }
+    .nmkkpoi{
+        height: 1100px;
+        background-image: url(./Imagas/MANICHI1.jpg);
+    }
+    #opjid{
+        left: 30%;
+        font-size: 120px;
+        color: aliceblue;
+    position: absolute;
+    top: 20%;
+    }
+    .h1{
+        background-color: rgb(124, 124, 124);
+        margin-top: 300px;
+        color: rgb(197, 197, 197);
+display: flex;
+justify-content: space-between;
+text-align: center;
+    }
+    .p1{
+        padding-top: 15px;
+        padding-bottom: 90px;
+        color:white;
+        background-color: rgb(58, 58, 58);
+        border: 3px solid rgb(255, 0, 60);
+    }
+ .p1 p{
+    font-size: 50px;
+ }
+ .p1 h1{
+    margin-top: 20px;
+    padding-top: 30px;
+ }
+ .p1 a{
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(244, 237, 237);
+    background-color: orange;
+    text-decoration: none;
+    font-size: 28px;
+    border: 3px solid white;
+ }
+    .p1 a:hover{
+        background-color: black;
+        color: aliceblue;
+        border: 3px solid red;
+    }

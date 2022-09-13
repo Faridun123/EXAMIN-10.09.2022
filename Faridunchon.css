@@ -1,0 +1,85 @@
+.blocki1 i{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 800px;
+    }
+    *{
+        margin: 0;
+    }
+    .yuio{
+        margin-top: 10px;
+        font-size: 40px;
+        text-decoration: none;
+        margin-left: 100px;
+    }
+    .blocki1{
+        z-index: 1;
+        background-color: aliceblue;
+        position: sticky;
+        top: 0%;
+        padding-top: 20px;
+        padding-bottom: 10px;
+    display: flex;
+    height: 10vh;
+    }
+    .blocki1 img{
+        margin-left: 50px;
+    }
+    .containeri1{
+        display: flex;
+        height: 500px;
+        background-image: url(./Imagas/);
+    }
+    .blocki10{
+        background-size: cover;
+        height: 1000px;
+        background-image: url(./Imagas/Mehro\ 8.jpg);
+    }
+    #ghj{
+        color: rgb(187, 23, 23);
+        left: 28%;
+        font-size: 150px;
+        position: absolute;
+        top: 20%;
+    }
+    .containeri3{
+    
+        position: absolute;
+        top: 27%;
+        margin-left: 150px;
+        margin-right: 100px;
+        margin-top: 200px;
+     display: flex;
+     height: 500px;
+     width: 100%;
+    }
+    .box1{
+        background-color: rgb(48, 50, 50);
+        color:red;
+        font-weight: 100;
+        font-family: 'Open Sans',sans-serif;
+        font-size: 26px;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        width: 20%;
+        height: 400px;
+    }
+    .box2{
+        margin-left: 50px;
+        background-color: aqua;
+        width: 20%;
+        height: 400px;
+    }
+    .box3{
+        margin-left: 50px;
+        background-color: aqua;
+        width: 20%;
+        height: 400px;
+    }
+    .box4{
+        margin-left: 50px;
+        background-color: aqua;
+        width: 20%;
+        height: 400px;
+    }

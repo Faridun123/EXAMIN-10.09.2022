@@ -1,0 +1,95 @@
+
+.bomba{
+display: flex;
+}
+#mn{
+    margin-top: 120px;
+    letter-spacing: 5px;
+    margin-left: 800px;
+    font-size: 50px;
+    font-weight: 100;
+    font-family:  "Montserrat", sans-serif;
+}
+#mn1{
+    margin-left: 500px;
+    font-size: 50px;
+}
+.block1 p{
+    margin-left: 600px;
+    font-size: 35px;
+}
+.block1 a{
+    color: white;
+    background-color: rgb(65, 65, 65);
+    margin-left: 790px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    font-size: 30px;
+}
+.block1 a:hover{
+    color: black;
+    opacity: 0.6;
+}
+
+
+.blocki5{
+
+    height: 200px;
+    background-color: rgb(199, 198, 197);
+    margin-top: 400px;
+}
+.bloki6{
+    padding-top: 80px;
+    font-size: 39px;
+    letter-spacing: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#k:hover{
+color: grey;
+}
+.ghj{
+    padding-top: 10px;
+    font-size: 20px;
+  
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 100%;
+}
+#f{
+    color: black;
+}
+#f:hover{
+    color: greenyellow;
+}
+.con1{
+   
+     
+    width: 33%;
+}
+.container{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.con2{
+    width: 33%;
+}
+.con3{
+    width: 33%;
+}
+.y2,.y3,.y4,.y5,.y6,.e2,.e3,.e4,.e5,.e6{
+    margin-top: -5px;
+}
+.w2,.w3,.w4,.w5,.w6{
+    margin-top: -5px;
+}

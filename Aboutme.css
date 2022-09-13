@@ -1,0 +1,62 @@
+.blocki1 i{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 800px;
+    }
+    *{
+        margin: 0;
+    }
+    .yuio{
+        margin-top: 10px;
+        font-size: 40px;
+        text-decoration: none;
+        margin-left: 100px;
+    }
+    .blocki1{
+        z-index: 1;
+        background-color: aliceblue;
+        position: sticky;
+        top: 0%;
+        padding-top: 20px;
+        padding-bottom: 10px;
+    display: flex;
+    height: 10vh;
+    }
+    .blocki1 img{
+        margin-left: 50px;
+    }
+    .containeri1{
+        display: flex;
+        height: 500px;
+        background-image: url(./Imagas/);
+    }
+    .blocki10{
+        background-size: cover;
+        height: 1000px;
+        background-image: url(./Imagas/MONOPOLIAM\ 2.jpg)
+    }
+.do{
+
+    color: aliceblue;
+    margin-top: 150px;
+margin-left: 500px;
+    text-align: center;
+    display: flex;
+}
+.do h1{
+    z-index: 1;
+    border: 3px solid white;
+    background-color: rgb(0, 0,0,0.6);
+    color: brown;
+    padding-top: 50px;
+    font-size: 80px;
+    
+}
+#fghjkl{
+    background-color:  rgb(0, 0, 0,0.5);
+    border: 3px solid rgb(75, 72, 72);
+    margin-left: 500px;
+    width: 43.6%;
+    color: aliceblue;
+    font-size: 50px;
+}
